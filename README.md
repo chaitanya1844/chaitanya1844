@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Chaitanya Bhatia</h1>
 <h3 align="center">Always excited to learn and create unique things</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/headers/javierarres/K9XW3ZwUIhMp.gif")
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/headers/javierarres/K9XW3ZwUIhMp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-bhatia" /> </p>
 
