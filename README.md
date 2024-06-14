@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Electronics, DSA & MERN stack**
 
-- ⚡ Fun fact **I am Technology Addict**
+- ⚡ **I am Technology Addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
