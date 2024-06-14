@@ -1,39 +1,14 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/016/349/659/original/robots-banner-web-icon-illustration-concept-for-future-robotics-technology-with-an-icon-of-crawler-chef-chatbot-bot-camera-kid-and-dog-robot-vector.jpg)
+   <style>
+        .curved-border {
+            border-radius: 20px; /* Adjust the value to change the curve radius */
+            overflow: hidden; /* This ensures the content doesn't overflow the rounded corners */
+        }
+   </style>
 <h1 align="center">Hi 👋, I'm Chaitanya Bhatia</h1>
 <h3 align="center">Always excited to learn and create unique things</h3>
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/1439352646/vector/manufacturing-and-robotics.jpg?s=612x612&w=0&k=20&c=AmUFCE2IhEqGix41-lr5YnmspuWXRjJpf0KT78PKKn8=">
- <canvas id="canvas"></canvas>
 
-  <script>
-        window.onload = function() {
-            const image = document.getElementById('source-image');
-            const canvas = document.getElementById('canvas');
-            const ctx = canvas.getContext('2d');
-
-            // Set canvas size to match the image
-            canvas.width = image.width;
-            canvas.height = image.height;
-
-            const borderRadius = 50; // Adjust this value to change the border radius
-
-            // Draw rounded rectangle
-            ctx.beginPath();
-            ctx.moveTo(borderRadius, 0);
-            ctx.lineTo(canvas.width - borderRadius, 0);
-            ctx.quadraticCurveTo(canvas.width, 0, canvas.width, borderRadius);
-            ctx.lineTo(canvas.width, canvas.height - borderRadius);
-            ctx.quadraticCurveTo(canvas.width, canvas.height, canvas.width - borderRadius, canvas.height);
-            ctx.lineTo(borderRadius, canvas.height);
-            ctx.quadraticCurveTo(0, canvas.height, 0, canvas.height - borderRadius);
-            ctx.lineTo(0, borderRadius);
-            ctx.quadraticCurveTo(0, 0, borderRadius, 0);
-            ctx.closePath();
-            ctx.clip();
-
-            // Draw the image on the canvas
-            ctx.drawImage(image, 0, 0);
-        };
-    </script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
