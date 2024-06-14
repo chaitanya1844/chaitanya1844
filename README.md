@@ -1,17 +1,14 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJNSmxMVEJhYXBtNVNHTGltd0dVVjlRalY3QXxBQ3Jtc0ttNGlfUGpxSHdQMl9xLW5KUjBNWjdiOVRSRlBJZ1NxeG5mbFNQZHVVYmRZc2lqcVBZZEw2LUkwS2FKQmZPRkstNWRYY3FZdVNHNWZEdnY2d2FMV0dPdnZ4dVlsdDNZRXRTOHFpZGZOci1yVjhKM041SQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)]
+[![MasterHead]([https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJNSmxMVEJhYXBtNVNHTGltd0dVVjlRalY3QXxBQ3Jtc0ttNGlfUGpxSHdQMl9xLW5KUjBNWjdiOVRSRlBJZ1NxeG5mbFNQZHVVYmRZc2lqcVBZZEw2LUkwS2FKQmZPRkstNWRYY3FZdVNHNWZEdnY2d2FMV0dPdnZ4dVlsdDNZRXRTOHFpZGZOci1yVjhKM041SQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE](https://static.vecteezy.com/system/resources/previews/016/349/659/original/robots-banner-web-icon-illustration-concept-for-future-robotics-technology-with-an-icon-of-crawler-chef-chatbot-bot-camera-kid-and-dog-robot-vector.jpg))]
 <h1 align="center">Hi 👋, I'm Chaitanya Bhatia</h1>
 <h3 align="center">Always excited to learn and create unique things</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/headers/javierarres/K9XW3ZwUIhMp.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/headers/javierarres/K9XW3ZwUIhMp.gif](https://media.istockphoto.com/id/1439352646/vector/manufacturing-and-robotics.jpg?s=612x612&w=0&k=20&c=AmUFCE2IhEqGix41-lr5YnmspuWXRjJpf0KT78PKKn8=)](https://media.istockphoto.com/id/1439352646/vector/manufacturing-and-robotics.jpg?s=612x612&w=0&k=20&c=AmUFCE2IhEqGix41-lr5YnmspuWXRjJpf0KT78PKKn8=)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-bhatia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya-bhatia" alt="chaitanya-bhatia" /></a> </p>
 
 - 🔭 I’m currently working on a **Hexapod using STM32 & Rasberry Pi Pico**
 
 - 🌱 I’m currently learning **Electronics, DSA & MERN Stack**
 
-- ⚡ Fun fact **Technology Addict**
+- ⚡ I consider myself a **Technology Addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
