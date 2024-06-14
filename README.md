@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chaitanya Bhatia</h1>
 <h3 align="center">Always excited to learn and create unique things</h3>
-<img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/1439352646/vector/manufacturing-and-robotics.jpg?s=612x612&w=0&k=20&c=AmUFCE2IhEqGix41-lr5YnmspuWXRjJpf0KT78PKKn8=">
+<img align="right" alt="Coding" width="250" src="https://media.istockphoto.com/id/1439352646/vector/manufacturing-and-robotics.jpg?s=612x612&w=0&k=20&c=AmUFCE2IhEqGix41-lr5YnmspuWXRjJpf0KT78PKKn8=">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chaitanya-Bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="Chaitanya-Bhatia" /> </p>
