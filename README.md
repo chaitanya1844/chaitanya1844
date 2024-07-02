@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chaitany-bhatia-b8b0b3296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya1844-b8b0b3296/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaitanya-bhatia-b8b0b3296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-bhatia-b8b0b3296" height="30" width="40" /></a>
 </p>
 
 <h3></h3>
